@@ -1,9 +1,6 @@
-# codewars
+# My solutions for [Codewars' Katas](https://www.codewars.com/)
 
 <img src="https://www.codewars.com/users/yhsu/badges/large">
-
-My solutions for Codewars' Katas https://www.codewars.com/
-
 
 
 ## Solutions
